@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Gian/Desktop/MAUA_2.0/MACHINE_LEARNING_GIAN/Curso%20MLops/Curso-MLOps/mlruns/0/1372b2ba370548d2bd477df4b526bb4b/artifacts
+end_time: 1714678639663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1372b2ba370548d2bd477df4b526bb4b
+run_name: big-wolf-167
+run_uuid: 1372b2ba370548d2bd477df4b526bb4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714678637178
+status: 3
+tags: []
+user_id: Gian

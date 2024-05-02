@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Gian/Desktop/MAUA_2.0/MACHINE_LEARNING_GIAN/Curso%20MLops/Curso-MLOps/mlruns/0/29311194ad6c464da2461fab7718a00a/artifacts
+end_time: 1714677789071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29311194ad6c464da2461fab7718a00a
+run_name: wistful-eel-711
+run_uuid: 29311194ad6c464da2461fab7718a00a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714677785384
+status: 3
+tags: []
+user_id: Gian
